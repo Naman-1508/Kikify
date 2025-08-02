@@ -1,16 +1,17 @@
-# kikify
+# Kikify UI
+A Flutter-based UI project for a sneaker e-commerce mobile application.
 
-A new Flutter project.
+## Features
+- Product listing screens with sneaker images and basic details
+- Product detail pages with large image display
+- Basic shopping cart UI (cart functionality not fully implemented)
+- Clean and responsive layout for different screen sizes
+- Smooth navigation between screens
 
-## Getting Started
+## Tech Stack
+- Flutter & Dart
+- Material Design components
+- Responsive UI design principles
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Notes
+This project is frontend-only and does not include backend integration or payment functionality.
